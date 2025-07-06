@@ -1,0 +1,5 @@
+prompt: 'man, who looks like fred flintstone (mimic fredfinops.com) with with an orange shirt, blue tie, and wearing glasses short trimmed beard with some gray, buzz cut hair, slightly overweight, only 2 arms, in an office, in front of one laptop, notepad, who is deep in thought thinking and pondering over "Value?", show "Value?" in a cloud above his head, dynamic shot',
+
+prompt: 'man, who looks like fred flintstone (mimic fredfinops.com) with with an orange shirt, blue tie, and wearing glasses short trimmed beard with some gray, buzz cut hair, slightly overweight, only 2 arms, in an office, in front of one laptop, notepad, who has had a realization of surprise, show exactly "Value is more than Money" in a cloud above his head, dynamic shot',
+
+prompt: camera is positioned behind the man and over the shoulder of a man looking at his laptop screen and can see a blank laptop screen, who looks like fred flintstone (mimic fredfinops.com) with with an orange shirt, blue tie, and wearing glasses short trimmed beard with some gray, buzz cut hair, slightly overweight, only 2 arms, in an office, dynamic shot
