@@ -1,0 +1,1 @@
+../../template_claude/ai/.claude/rules/core.md
