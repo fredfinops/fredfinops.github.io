@@ -1,0 +1,17 @@
+{
+  "recommendations": [
+    "EditorConfig.EditorConfig",
+    "esbenp.prettier-vscode",
+    "mhutchie.git-graph",
+    "streetsidesoftware.code-spell-checker",
+    "wayou.vscode-todo-highlight"
+  ],
+  "unwantedRecommendations": [
+    "DavidAnson.vscode-markdownlint",
+    "GitHub.copilot",
+    "GitHub.copilot-chat",
+    "eamodio.gitlens",
+    "ms-python.pylint",
+    "yzhang.markdown-all-in-one"
+  ]
+}
