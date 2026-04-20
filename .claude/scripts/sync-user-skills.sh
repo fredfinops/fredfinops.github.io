@@ -1,0 +1,1 @@
+../../template_claude/ai/.claude/scripts/sync-user-skills.sh
