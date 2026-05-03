@@ -1,0 +1,1 @@
+../../template_claude/ai/.claude/scripts/onboard-settings.sh
