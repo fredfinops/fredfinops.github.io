@@ -1,0 +1,18 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="referrer" content="no-referrer"><meta name="robots" content="noindex, nofollow"><meta http-equiv="Cache-Control" content="no-store"><meta http-equiv="Pragma" content="no-cache"><title>Returning to Summat…</title><script>
+      (function () {
+        var src = new URLSearchParams(window.location.search);
+        var out = new URLSearchParams();
+        ['code', 'state', 'error', 'error_description'].forEach(function (k) {
+          var v = src.get(k);
+          if (v !== null) out.set(k, v);
+        });
+        var target = 'summat://whoop/callback?' + out.toString();
+        window.location.replace(target);
+        document.addEventListener('DOMContentLoaded', function () {
+          var a = document.getElementById('open');
+          if (a) a.setAttribute('href', target);
+          var f = document.getElementById('fallback');
+          if (f) f.hidden = false;
+        });
+      })();
+    </script></head><body style="font-family: system-ui, sans-serif; padding: 2rem; text-align: center;"><p>Returning to Summat…</p><p id="fallback" hidden><a id="open" href="summat://whoop/callback" rel="noreferrer">Tap here if the app doesn't open</a></p><noscript><p>JavaScript is required to finish connecting Whoop. <a href="summat://whoop/callback" rel="noreferrer">Return to Summat and retry connecting</a>.</p></noscript></body></html>
